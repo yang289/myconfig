@@ -9,4 +9,4 @@ server:
   port: 8089
 
 
-my.name=yang
+my.name: yang
