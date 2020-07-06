@@ -7,3 +7,6 @@ spring:
     name: springcloud-client
 server:
   port: 8089
+
+#自定义参数
+my.name=yang
