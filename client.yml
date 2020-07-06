@@ -3,7 +3,6 @@ spring:
     name: springcloud-client
 server:
   port: 8089
-my:
-  name: yang
+
 
 
